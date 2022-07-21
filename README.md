@@ -68,9 +68,11 @@ The second method used is oversampling, which is very similar to the first metho
 Our last and final method is the smote method (synthetic minority oversampling technique) which essentially creates artifical samples for the underrepresented class such that the dataset now becomes balanced. This was the method which yielded the best results for both the metrics of each class as well as the overall accuracy. 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Confusion matrix for best method
+![alt text](https://github.com/reyrobs/Bank-Customer-Prediction/blob/main/images/confusion_matrix.png?raw=true)
 
 ## Interpretation of results
-Over the course of this small project we have seen the effect of using an unbalanced dataset. This can gives a misleading accuracy since the classifier will develop a tendency to classify the overrepresented class. In order to tackle this, we have made use of 3 method and have found that the best one in this case was the SMOTE method. 
+Over the course of this small project we have seen the effect of using an unbalanced dataset. This can gives a misleading accuracy since the classifier will develop a tendency to classify the overrepresented class. In order to tackle this, we have made use of 3 methods and have found that the best one in this case was the SMOTE method. 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -79,7 +81,7 @@ Over the course of this small project we have seen the effect of using an unbala
 
 Robert Rey - [LinkedIn](https://www.linkedin.com/in/robert-rey-36689a103/)
 
-Project Link: [Expectation-Maximization](https://github.com/reyrobs/Expectation-Maximization-Algorithm)
+Project Link: [Bank-Customer-Prediction](https://github.com/reyrobs/Bank-Customer-Prediction)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
